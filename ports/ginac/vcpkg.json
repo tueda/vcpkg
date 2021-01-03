@@ -1,0 +1,10 @@
+{
+  "name": "ginac",
+  "version-string": "1.8.0",
+  "description": "GiNaC Is Not A Computer algebra system",
+  "homepage": "https://www.ginac.de/",
+  "documentation": "https://www.ginac.de/tutorial/",
+  "dependencies": [
+    "cln"
+  ]
+}
