@@ -1,0 +1,18 @@
+{
+  "name": "cln",
+  "version-string": "1.3.6",
+  "description": "Class Library for Numbers",
+  "homepage": "https://www.ginac.de/CLN/",
+  "documentation": "https://www.ginac.de/CLN/cln.html",
+  "default-features": [
+    "gmp"
+  ],
+  "features": {
+    "gmp": {
+      "description": "Build with gmp",
+      "dependencies": [
+        "gmp"
+      ]
+    }
+  }
+}
